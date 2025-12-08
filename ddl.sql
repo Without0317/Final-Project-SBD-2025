@@ -11,7 +11,7 @@ create table tempat_parkir (
     id_tempat_parkir char(6) primary key,
     jenis_tempat_parkir char(2),
     jenis_k_tempat_parkir char(5),
-    nama_tempat_parkir varchar(15),
+    nama_tempat_parkir varchar(20),
     total_slot_tempat_parkir int,
     staff_id_staff char(6)
 );
