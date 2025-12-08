@@ -1,4 +1,4 @@
-INSERT INTO kendaraan (id_kendaraan, jenis_kendaraan, nomor_polis, internal_its_id_internal) VALUES
+INSERT INTO kendaraan (id_kendaraan, jenis_kendaraan, nomor_polisi, internal_its_id_internal) VALUES
 ('KD0001', 'Motor', 'B1234AF', '5025251222'),
 ('KD0002', 'Mobil', 'L8273BG', '5025251010'),
 ('KD0003', 'Motor', 'W3921DK', '5025251200'),
