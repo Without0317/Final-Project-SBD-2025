@@ -1,4 +1,4 @@
-INSERT INTO parkir_log (id_log, waktu_masuk, waktu_keluar, slot_id, kendaraan_id) VALUES
+INSERT INTO parkir_log (id_log, waktu_masuk, waktu_keluar, slot_parkir_id_slot, kendaraan_id_kendaraan) VALUES
 ('LG0001','2025-01-04 07:12:11','2025-01-04 09:33:19',  SL0027,'KD0007'),
 ('LG0002','2025-01-04 07:22:44', NULL,                   SL0315,'KD0041'),
 ('LG0003','2025-01-04 07:33:20','2025-01-04 11:15:55',  SL0468,'KD0023'),
