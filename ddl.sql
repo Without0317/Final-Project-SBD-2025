@@ -29,7 +29,7 @@ create table eksternal_its (
     id_eksternal char(16) primary key,
     nama varchar(30),
     no_telp varchar(15),
-    stnk char(7),
+    stnk char(7)
 );
 
 
