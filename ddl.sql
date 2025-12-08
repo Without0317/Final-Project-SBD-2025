@@ -70,7 +70,7 @@ create table karcis (
     id_karcis char(6) primary key,
     status_karcis boolean,
     parkir_log_id_log char(6),
-    eksternal_its_id_ek char(6),
+    eksternal_its_id_ek char(16),
 	jenis_kendaraan char(5)
 );
 
