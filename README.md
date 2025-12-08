@@ -5,3 +5,5 @@ halo, ini readme sebagai guide file nya
 
 ddl.sql sebagai DDL utama untuk mendefinisikan database dan tabel nya
 untuk menginput DML, pastikan masukin dari yang tidak memilik FK dahulu ges
+
+atau kalo mau gampang klik file final udah diabung Without0317
