@@ -1,4 +1,3 @@
-
 insert into tempat_parkir (id_tempat_parkir, lokasi, jenis_tempat_parkir, jenis_k_tempat_parkir, id_staff) values
 -- PARKIRAN TC
 ('TP0001', 'Parkiran TC', 'MH', 'MOTOR', 'S00001'),
@@ -46,7 +45,7 @@ insert into tempat_parkir (id_tempat_parkir, lokasi, jenis_tempat_parkir, jenis_
 ('TP0033', 'KPA 3', 'TD', 'MOTOR', 'S00033'),
 ('TP0034', 'KPA 3', 'TD', 'MOBIL', 'S00034'),
 ('TP0035', 'KPA 3', 'UM', 'MOTOR', 'S00035'),
-('TP0036', 'KPA 3', 'UM', 'MOBIL', 'S00036');
+('TP0036', 'KPA 3', 'UM', 'MOBIL', 'S00036'),
 
 --Asrama
 ('TP0037', 'Asrama', 'MH', 'MOTOR', 'S00037'),
