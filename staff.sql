@@ -1,4 +1,3 @@
-
 insert into staff (id_staff, nama_staff, no_telp) values
 ('S00001', 'Arif Setiawan', '081234560001'),
 ('S00002', 'Budi Prakoso', '081234560002'),
