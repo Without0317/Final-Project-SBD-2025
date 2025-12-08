@@ -1,6 +1,8 @@
 --DDL
 -- table
 
+
+
 create table staff (
     id_staff char(6) primary key,
     nama_staff varchar(30),
@@ -28,7 +30,6 @@ create table eksternal_its (
     nama varchar(30),
     no_telp varchar(15),
     stnk char(7),
-	jenis_kendaraan char(5)
 );
 
 
@@ -70,6 +71,7 @@ create table karcis (
     status_karcis boolean,
     parkir_log_id_log char(6),
     eksternal_its_id_ek char(6)
+	jenis_kendaraan char(5)
 );
 
 
