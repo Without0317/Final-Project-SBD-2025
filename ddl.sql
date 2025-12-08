@@ -27,7 +27,8 @@ create table eksternal_its (
     id_eksternal char(6) primary key,
     nama varchar(30),
     no_telp varchar(15),
-    stnk char(7)
+    stnk char(7),
+	jenis_kendaraan char(5)
 );
 
 
